@@ -1,5 +1,11 @@
 # Windhawk Configurations for Transparent desktop
+
+## New Setup
+![Showcase](https://github.com/user-attachments/assets/e374ada7-2ab1-4bc4-a063-9eb1a8d4e9ab)
+
+## Old Setup
 ![Screenshotp](https://github.com/user-attachments/assets/8c6dd060-242b-47f9-9538-c5d9ba559df8)
+
 
 ## Taskbar height and icon size
 ``` xaml
