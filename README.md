@@ -6,9 +6,10 @@
 ## Old Setup
 ![Screenshotp](https://github.com/user-attachments/assets/8c6dd060-242b-47f9-9538-c5d9ba559df8)
 
+***
 ##
 ##
-##
+***
 ## Config-V3
 ## Taskbar height and icon size
 ``` xaml
@@ -32,8 +33,11 @@
 ``` xaml
 {"ShowSeconds":0,"TimeFormat":"H':'mm","DateFormat":"ddd dd MMM","WeekdayFormat":"dddd","TopLine":"-","BottomLine":" %date%  %time%  ","MiddleLine":"-","TooltipLine":"%web1_full%","Width":170,"Height":60,"TextSpacing":1,"WebContentsUpdateInterval":0,"TimeStyle.Visible":0,"TimeStyle.TextColor":"Transparent","TimeStyle.TextAlignment":"","TimeStyle.FontSize":1,"TimeStyle.FontFamily":"montserrat","TimeStyle.FontWeight":"Normal","TimeStyle.FontStyle":"Normal","TimeStyle.FontStretch":"","TimeStyle.CharacterSpacing":0,"DateStyle.TextColor":"White","DateStyle.TextAlignment":"","DateStyle.FontSize":14,"DateStyle.FontFamily":"Montserrat","DateStyle.FontWeight":"Medium","DateStyle.FontStyle":"Normal","DateStyle.FontStretch":"SemiExpanded","DateStyle.CharacterSpacing":0,"oldTaskbarOnWin11":0,"MaxWidth":0,"Opacity":1,"WeekdayFormatCustom":"Sun, Mon, Tue, Wed, Thu, Fri, Sat","DataCollection.NetworkMetricsFormat":"mbs","DataCollection.NetworkMetricsFixedDecimals":-1,"DataCollection.PercentageFormat":"spacePaddingAndSymbol","DataCollection.UpdateInterval":1,"WebContentWeatherLocation":"","WebContentWeatherFormat":"%c 🌡️%t 🌬️%w","WebContentWeatherUnits":"autoDetect","WebContentsItems[0].Url":"https://rss.nytimes.com/services/xml/rss/nyt/World.xml","WebContentsItems[0].BlockStart":"<item>","WebContentsItems[0].Start":"<title>","WebContentsItems[0].End":"</title>","WebContentsItems[0].ContentMode":"xmlHtml","WebContentsItems[0].SearchReplace[0].Search":"","WebContentsItems[0].SearchReplace[0].Replace":"","WebContentsItems[0].MaxLength":28,"TimeZones[0]":"Eastern Standard Time"}
 ```
-
-
+***
+##
+##
+***
+ 
 ## Config-V2
 ## Taskbar height and icon size
 ``` xaml
